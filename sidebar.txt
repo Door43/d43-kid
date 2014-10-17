@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kid:home|Door43 (kid)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kid|d43-kid repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kid/archive/master.zip|d43-kid.zip]]
+
+**Recent Changes**
+{{changes>ns = kid}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kid|Ethnologue data]]
+
